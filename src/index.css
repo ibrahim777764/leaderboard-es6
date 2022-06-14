@@ -1,5 +1,5 @@
 * {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 header {
@@ -9,7 +9,7 @@ header {
 
 header,
 .board-section {
-  width: 90%;
+  width: 20%;
 }
 
 .board-section {

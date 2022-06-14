@@ -12,8 +12,7 @@ export default class Render {
     const form = document.getElementById('submit-data');
     container.insertBefore(div, form);
     setTimeout(() => {
-    document.querySelector('.alert').remove();
+      document.querySelector('.alert').remove();
     }, 3000);
   }
 }
-

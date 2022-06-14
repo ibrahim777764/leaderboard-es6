@@ -1,5 +1,3 @@
-# leaderboard-es6
-
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ## leaderboard-es6

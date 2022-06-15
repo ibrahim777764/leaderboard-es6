@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -15,24 +16,16 @@
       <div class="result">
         <div class="titles">
           <h2>Recent Score</h2>
-          <button type="button" class="btn refresh">Refresh</button>
+          <button type="button" class="btn refresh" id="refresh">Refresh</button>
         </div>
-        <ul class="scores-list" id="list">
-          <li><p>Name: 100</p></li>
-          <li><p>Name: 30</p></li>
-          <li><p>Name: 20</p></li>
-          <li><p>Name: 70</p></li>
-          <li><p>Name: 80</p></li>
-          <li><p>Name: 60</p></li>
-          <li><p>Name: 10</p></li>
-        </ul>
+        <ul class="scores-list" id="list"></ul>
       </div>
       <div class="score-form">
         <h2>Add your Score</h2>
         <form action="#" id="submit-data">
-          <input type="text" id="fullname" placeholder="Your name" />
+          <input type="text" id="name" placeholder="Your name" />
           <input type="number" id="score" placeholder="Your Score" />
-          <button type="submit" class="btn submit-form">Submit</button>
+          <button type="submit" class="btn submit-form" id="btn">Submit</button>
         </form>
       </div>
     </section>

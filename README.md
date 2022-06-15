@@ -17,6 +17,7 @@ JavaScript project for the Leaderboard list app, built using webpack and ES6 fea
 
 ## Live Demo
 
+[live demo link]https://ibrahim777764.github.io/leaderboard-es6/
 
 ## Getting Started
 

@@ -1,4 +1,3 @@
-
 import './index.css';
 
 const list = document.getElementById('list');

@@ -1,4 +1,3 @@
-
 * {
   font-family: Helvetica, Arial, sans-serif;
 }
@@ -64,6 +63,8 @@ h2 {
   list-style-type: none;
   border: 4px solid black;
   width: 100%;
+  max-height: 390px;
+  overflow-y: auto;
 }
 
 .scores-list li {
